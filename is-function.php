@@ -5,6 +5,6 @@ var_dump(is_int($var)) . "<br>";
 if (is_int($var)) {
 	echo "<br> $var is integer.";
 }else{
-	echo "<br> $var Mr.krishna kumar sah.";
+	echo "<br> $var ghhghghbjkjk;
 }
 ?>
