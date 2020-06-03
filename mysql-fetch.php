@@ -18,7 +18,11 @@ echo '</pre>';
 // print_r($row);
 // echo '</pre>';
 
+<<<<<<< Updated upstream
 // hello test pepsidcooo
+=======
+// hello test krifhgf sanothii 
+>>>>>>> Stashed changes
 
 // foreach ($row as $data) {
 // 	echo $data['id'] . " " . $data['first_name'] . " " . $data['last_name'] . "<br>";
